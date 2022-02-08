@@ -5,6 +5,8 @@ repo: sflwa-uptime # The name of this repository
 sites:
   - name: Temple Beth Orr
     url: https://www.templebethorr.org
+   - name: Temple Torat Emet
+    url: https://www.templetoratemet.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
