@@ -4,19 +4,19 @@
     "url": "https://www.templebethorr.org",
     "icon": "https://favicons.githubusercontent.com/www.templebethorr.org",
     "slug": "temple-beth-orr",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3657,
-    "timeDay": 3657,
-    "timeWeek": 3657,
-    "timeMonth": 3657,
-    "timeYear": 3657,
+    "status": "up",
+    "uptime": "72.94%",
+    "uptimeDay": "72.94%",
+    "uptimeWeek": "72.94%",
+    "uptimeMonth": "72.94%",
+    "uptimeYear": "72.94%",
+    "time": 4609,
+    "timeDay": 4609,
+    "timeWeek": 4609,
+    "timeMonth": 4609,
+    "timeYear": 4609,
     "dailyMinutesDown": {
-      "2022-02-08": 0
+      "2022-02-08": 251
     }
   },
   {
