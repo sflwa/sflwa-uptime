@@ -15,6 +15,7 @@ status-website:
   name: SFLWA Uptime Monitoring
   introTitle: "*Website Uptime Monitoring for SFLWA Clients"
   introMessage: We hope everything is green
+  theme: light
   navbar:
     - title: Status
       href: /
