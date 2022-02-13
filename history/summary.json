@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.templebethorr.org",
     "slug": "temple-beth-orr",
     "status": "up",
-    "uptime": "89.52%",
+    "uptime": "90.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.52%",
-    "uptimeMonth": "89.52%",
-    "uptimeYear": "89.52%",
+    "uptimeWeek": "90.54%",
+    "uptimeMonth": "90.54%",
+    "uptimeYear": "90.54%",
     "time": 3320,
     "timeDay": 972,
     "timeWeek": 3320,
@@ -25,7 +25,7 @@
     "url": "https://www.templetoratemet.org",
     "icon": "https://favicons.githubusercontent.com/www.templetoratemet.org",
     "slug": "temple-torat-emet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,8 @@
     "timeWeek": 3036,
     "timeMonth": 3036,
     "timeYear": 3036,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   }
 ]
